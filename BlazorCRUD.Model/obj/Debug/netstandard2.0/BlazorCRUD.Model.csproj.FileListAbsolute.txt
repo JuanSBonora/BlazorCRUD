@@ -1,0 +1,9 @@
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Model\bin\Debug\netstandard2.0\BlazorCRUD.Model.deps.json
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Model\bin\Debug\netstandard2.0\BlazorCRUD.Model.dll
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Model\bin\Debug\netstandard2.0\BlazorCRUD.Model.pdb
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Model\obj\Debug\netstandard2.0\BlazorCRUD.Model.AssemblyInfoInputs.cache
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Model\obj\Debug\netstandard2.0\BlazorCRUD.Model.AssemblyInfo.cs
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Model\obj\Debug\netstandard2.0\BlazorCRUD.Model.dll
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Model\obj\Debug\netstandard2.0\BlazorCRUD.Model.pdb
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Model\obj\Debug\netstandard2.0\BlazorCRUD.Model.csproj.AssemblyReference.cache
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Model\obj\Debug\netstandard2.0\BlazorCRUD.Model.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\bin\Debug\netstandard2.0\BlazorCRUD.Data.Dapper.deps.json
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\bin\Debug\netstandard2.0\BlazorCRUD.Data.Dapper.dll
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\bin\Debug\netstandard2.0\BlazorCRUD.Data.Dapper.pdb
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\obj\Debug\netstandard2.0\BlazorCRUD.Data.Dapper.AssemblyInfoInputs.cache
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\obj\Debug\netstandard2.0\BlazorCRUD.Data.Dapper.AssemblyInfo.cs
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\obj\Debug\netstandard2.0\BlazorCRUD.Data.Dapper.dll
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\obj\Debug\netstandard2.0\BlazorCRUD.Data.Dapper.pdb
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\bin\Debug\netstandard2.0\BlazorCRUD.Model.dll
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\bin\Debug\netstandard2.0\BlazorCRUD.Model.pdb
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\obj\Debug\netstandard2.0\BlazorCRUD.Data.Dapper.csproj.CopyComplete
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\obj\Debug\netstandard2.0\BlazorCRUD.Data.Dapper.csproj.AssemblyReference.cache
+C:\Users\jfsb1\source\repos\BlazorCRUD\BlazorCRUD.Data.Dapper\obj\Debug\netstandard2.0\BlazorCRUD.Data.Dapper.csproj.CoreCompileInputs.cache
